@@ -1,5 +1,5 @@
-## Низкоуровневое программирование - Лабораторная работа №2 - Вариант №18
+## Низкоуровневое программирование - Лабораторная работа №2
 
-![Методичка](https://drive.google.com/file/d/18MfeRJAhApiLGEmhy8sakXQx-D-FQzWC/view?usp=sharing)
+[Методичка](https://github.com/eeeeagle/LLP_2/files/9845147/Guide.pdf)
 
 <b>Работа выполенна на легкий уровень, вариант №1</b>
